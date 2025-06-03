@@ -6,8 +6,25 @@
 - [Assessing the Answers](#assessing-the-answers)
 - [Behavioral Interview Questions](#behavioral-interview-questions)
   - [Core Values](#core-values)
+    - [Customer-Centricity / User Focus](#customer-centricity--user-focus)
+    - [Team First Mentality](#team-first-mentality)
+    - [Ownership](#ownership)
+    - [Open-Mindedness](#open-mindedness)
   - [Behaviors](#behaviors)
-
+    - [Motivation & Drive](#motivation--drive)
+    - [Planning & Organizing](#planning--organizing)
+    - [Prioritization & Big Picture](#prioritization--big-picture)
+    - [Self-Reflection](#self-reflection)
+    - [Resilience](#resilience)
+    - [Problem-Solving & Data-Driven Approach](#problem-solving--data-driven-approach-creativity)
+    - [Proactiveness](#proactiveness)
+    - [Reliability](#reliability)
+    - [Personal Development & Growth](personal-development--growth)
+    - [Facilitating Development & Growth](#facilitating-development--growth)
+    - [Process](#process)
+    - [Establishing Partnerships & Negotiations](#establishing-partnerships--negotiations)
+    - [Tech Behavior](#tech-behavior)
+      
 ## Why Behavioral Interviews?
 
 Behavioral interviews are a great addition to understanding the candidate deeply on their motivations and overall fit within the company's culture and mission.
@@ -348,3 +365,7 @@ performance?
   
 - What was the last technology framework you selected and why?
   - ... What don’t you like about it?
+
+ ## Have Something to Add?
+
+ Any questions you'd like to add, feel free to open a PR! I am looking to make this a most complete list of qustions for behavioral interviews.
