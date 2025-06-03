@@ -368,4 +368,4 @@ performance?
 
  ## Have Something to Add?
 
- Any questions you'd like to add, feel free to open a PR! I am looking to make this a most complete list of qustions for behavioral interviews.
+ Any questions you'd like to add, feel free to open a PR! I am looking to make this a most complete list of questions for behavioral interviews.
